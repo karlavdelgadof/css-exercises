@@ -1,0 +1,20 @@
+.red-background.smaller-sized-font,
+.red-background.bigger-sized-font {
+    background-color:#ffb3b3 ;
+    font-family: Verdana, sans-serif;
+}
+
+#Blue-font {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.red-background.bigger-sized-font {
+    font-size: 24px;
+}
+
+#Green-background {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
